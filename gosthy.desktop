@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Cleanup Pacman & Yay Cache
+Comment=Clean up Pacman and Yay caches
+Exec=/home/craftworkson/cleanup_pac&yay_cache/dist/cleanup_pacman_yay
+Icon=/home/craftworkson/cleanup_pac&yay_cache/ghosty.ico
+Terminal=false
+Type=Application
+Categories=Utility;
