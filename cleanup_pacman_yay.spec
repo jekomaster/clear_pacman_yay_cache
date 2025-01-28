@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['/home/craftworkson/cleanup_pac&yay_cache/ghosty.ico'],
+    icon=['/home/craftworkson/cleanup_pac/ghosty.ico'],
 )
